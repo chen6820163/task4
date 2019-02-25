@@ -17,15 +17,7 @@ public class TestController {
         return "1";
     }
 
-    @RequestMapping("test2")
-    public String test2() {
-        return "career";
-    }
 
-    @RequestMapping("test3")
-    public String test3() {
-        return "home";
-    }
     @RequestMapping("test4")
     public String test4() {
         return "test1";
@@ -33,6 +25,6 @@ public class TestController {
 
     @RequestMapping("test5")
     public String test5() {
-        return "14";
+        return "test2";
     }
 }

@@ -8,7 +8,7 @@
 <main>
     <div class="container">
         <div class="row occupation">
-            <p><a href="https://maikihyh.github.io/task/html/task14.html">首页</a> &gt;
+            <p><a href="${pageContext.request.contextPath}/home">首页</a> &gt;
                 <span> 职业</span>
             </p>
         </div>

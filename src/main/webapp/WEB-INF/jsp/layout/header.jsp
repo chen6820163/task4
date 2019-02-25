@@ -20,8 +20,8 @@
     </div>
 
     <ul  class="topnav">
-    <li><a href="https://maikihyh.github.io/task/html/14.html">首页</a></li>
-    <li><a href="https://maikihyh.github.io/task/html/14.1.html">职业</a></li>
+    <li><a href="${pageContext.request.contextPath}/home">首页</a></li>
+    <li><a href="${pageContext.request.contextPath}/career">职业</a></li>
     <li><a href="https://maikihyh.github.io/task/html/15.html">推荐</a></li>
     <li><a  href="https://maikihyh.github.io/task/html/14.html">关于</a></li>
     </ul>
